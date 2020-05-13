@@ -1,5 +1,0 @@
-Hello World
-
-I'm just practicing Git and Github with these files.
-
-Just adding a few more words to this file.
